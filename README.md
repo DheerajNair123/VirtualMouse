@@ -27,7 +27,7 @@ pip install opencv-python mediapipe pyautogui numpy
 ## Usage 💻
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-repo/virtual-mouse.git](https://github.com/DheerajNair123/virtual-mouse.git)
+   git clone https://github.com/DheerajNair123/virtual-mouse.git
    cd virtual-mouse
    ```
 2. Run the script:

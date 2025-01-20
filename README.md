@@ -32,7 +32,7 @@ pip install opencv-python mediapipe pyautogui numpy
    ```
 2. Run the script:
    ```bash
-   python virtual_mouse.py
+   python app.py
    ```
 3. Allow access to your webcam when prompted.
 4. Control your mouse using hand gestures! 🖐️✨

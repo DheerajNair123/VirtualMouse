@@ -45,6 +45,9 @@ pip install opencv-python mediapipe pyautogui numpy
 ## Exit 🚪
 Press `q` to quit the application.
 
+## Tutorial for cloning
+- **Yotube Link:** [https://youtu.be/0614YOZs3Ow]
+
 ## License 📜
 This project is open-source and available under the MIT License. Feel free to modify and enhance it! 🌈
 
